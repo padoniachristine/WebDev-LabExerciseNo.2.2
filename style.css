@@ -207,18 +207,6 @@ table.withStyle caption {
 
 #datatable-container table tfoot td {
 
-    /* 
-    Di centered ang naas sa sample output
-    text-align: center;
-
-    wala naka underline sa sample output
-    text-decoration: underline;
-
-    wala naka bold ang <100k
-    font-weight: bold;
-
-    note: gabutang kog inline css para maawat ang sample output 
-     */
 }
 
 
@@ -230,7 +218,6 @@ table.withStyle caption {
 }
 
 #datatable-footer-result {
-    /*from 20px gireduce nako ang size para magtupong inline same sa sample output*/
     margin-top: 16px;
 }
 
